@@ -1,0 +1,26 @@
+{
+  "name": "skeps-eslint",
+  "version": "0.0.1",
+  "description": "Eslint Config",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashD5291/skeps-eslint.git"
+  },
+  "keywords": [
+    "Skeps",
+    "eslint"
+  ],
+  "author": "Yash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YashD5291/skeps-eslint/issues"
+  },
+  "homepage": "https://github.com/YashD5291/skeps-eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
